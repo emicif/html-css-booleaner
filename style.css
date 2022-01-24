@@ -11,7 +11,7 @@
     width: 200px;
     position: relative;
     top: 40px;
-    
+
 }
 
 /* fine stile intestazione */
@@ -35,7 +35,18 @@ span {
 
 /* fine stile header */
 
-/* stile tabella */ 
+/* stile main */
+
+    /* stile descrizione foto */
+        .description{
+            font-size: 12px;
+        }
+
+    /* stile primo paragrafo */
+        ul{
+            padding-left: 15px;
+        }
+    /* stile tabella */ 
 
 tbody{
     height: 150px;
@@ -52,6 +63,8 @@ th{
 }
 
 /* Fine stile tabella */ 
+
+/* stile main */
 
 /* Inizio stile footer */ 
 h4{
