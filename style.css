@@ -1,4 +1,8 @@
 
+body{
+    width: 1030px;
+}
+
 /* stile intestazione */
 #intes {
     height: 100px;
