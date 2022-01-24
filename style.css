@@ -1,0 +1,11 @@
+#intes {
+    height: 100px;
+    background-color: blue;
+    background-image: url(img/pattern.png);
+    background-size: 250px;
+}
+
+#logo {
+    width: 200px;
+    
+}
