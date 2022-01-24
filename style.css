@@ -1,5 +1,5 @@
 
-/* Stile intestazione */
+/* stile intestazione */
 #intes {
     height: 100px;
     background-color: blue;
@@ -9,10 +9,21 @@
 
 #logo {
     width: 200px;
+    position: relative;
+    top: 40px;
     
 }
 
-/* Stile header */
+/* fine stile intestazione */
+
+/* stile header */
+.annotations{
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+}
 
 h2{
     font-size: 40px;
@@ -21,6 +32,8 @@ h2{
 span {
     background-color: gold;
 }
+
+/* fine stile header */
 
 /* stile tabella */ 
 
