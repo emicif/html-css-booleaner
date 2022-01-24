@@ -39,3 +39,26 @@ th{
 }
 
 /* Fine stile tabella */ 
+
+/* Inizio stile footer */ 
+h4{
+    color: grey;
+}
+
+#prima-img {
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: 240px;
+    height: 150px;
+    color: white;
+    text-align: center;
+}
+
+#sec-img {
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    width: 240px;
+    height: 150px;
+    color: white;
+    text-align: center;
+}
