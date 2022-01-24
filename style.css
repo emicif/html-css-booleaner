@@ -1,5 +1,5 @@
-body {
-    width: 1030px;
+body{
+    margin-right: 950px;
 }
 
 /* stile intestazione */
@@ -44,6 +44,15 @@ span {
 
 /* stile main */
 
+#tim {
+    width: auto;
+    height: 300px;
+}
+#tim-2{
+    width: 385px;
+    height: auto;
+}
+
     /* stile descrizione foto */
         .description{
             font-size: 12px;
@@ -62,6 +71,14 @@ span {
         background-color: #93c2e971; 
     }
 
+    td:first-child {
+        width: 250px;
+    }   
+
+    td:nth-child(2) {
+        width: 250px;
+    }
+
     th{
         color: white;
         background: #6464fc;
@@ -75,9 +92,11 @@ span {
 /* Inizio stile footer */ 
 h4{
     color: grey;
+    margin-bottom: 0;
 }
 
 #prima-img {
+    margin-top: 0;
     background-image: url(img/monitor.jpg);
     background-repeat: no-repeat;
     width: 240px;
