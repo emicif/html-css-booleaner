@@ -6,9 +6,9 @@ body{
 /* stile intestazione */
 #intes {
     height: 100px;
-    background-color: blue;
+    background-color: rgb(71, 143, 252);
     background-image: url(img/pattern.png);
-    background-size: 250px;
+    background-size: 450px;
 }
 
 #logo {
@@ -21,6 +21,10 @@ body{
 /* fine stile intestazione */
 
 /* stile header */
+h2{
+    margin-bottom: 0;
+}
+
 .annotations{
     color: grey;
 }
