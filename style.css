@@ -1,5 +1,5 @@
 body{
-    margin-right: 950px;
+    margin-right: 800px;
 }
 
 /* stile intestazione */
@@ -22,6 +22,7 @@ body{
 /* stile header */
 h2{
     margin-bottom: 0;
+    line-height: 100%;
 }
 
 .annotations{
@@ -45,6 +46,7 @@ span {
 /* stile main */
 
 #tim {
+    margin-top: 10px;
     width: auto;
     height: 300px;
 }
@@ -63,6 +65,10 @@ span {
             padding-left: 15px;
         }
     /* stile tabella */ 
+    table{
+        border-collapse: collapse;
+    }
+
     tbody{
         height: 150px;
     }
@@ -96,7 +102,7 @@ h4{
 }
 
 #prima-img {
-    margin-top: 0;
+    margin-top: 5px;
     background-image: url(img/monitor.jpg);
     background-repeat: no-repeat;
     width: 240px;
