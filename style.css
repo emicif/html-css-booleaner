@@ -1,3 +1,5 @@
+
+/* Stile intestazione */
 #intes {
     height: 100px;
     background-color: blue;
@@ -9,3 +11,31 @@
     width: 200px;
     
 }
+
+/* Stile header */
+
+h2{
+    font-size: 40px;
+}
+
+span {
+    background-color: gold;
+}
+
+/* stile tabella */ 
+
+tbody{
+    height: 150px;
+}
+
+tr:nth-child(odd) {
+    background-color: #93c2e971; 
+}
+
+th{
+    color: white;
+    background: #6464fc;
+    text-align: left;
+}
+
+/* Fine stile tabella */ 
